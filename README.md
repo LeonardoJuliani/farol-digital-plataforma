@@ -23,17 +23,17 @@ A implementação do projeto Farol Digital cumpre integralmente os seguintes obj
 
 ## 📂 Estrutura do Repositório
 
-farol-plataforma-digital/
-* **> index.html               🏠 Página Inicial (Página Principal)**
-* **> projetos.html            🗺️ Lista de Projetos**
-* **> cadastro.html            📝 Formulário Complexo**
-* **> README.md                📖 Documentação Técnica**
-* **>css/                     Pasta de Estilos**
-* **>> styles.css           Estilos Responsivos**
-* **> js/                      Pasta de Comportamento**
-* **>> main.js              Máscaras e Validação**
-* **> images/                  Pasta de Ativos Visuais**
-* **>> .jpg, .svg         Imagens e Logo Otimizados**
+arol-plataforma-digital/
+* > index.html               **🏠 Página Inicial (Página Principal)**
+* > projetos.html            **🗺️ Lista de Projetos**
+* > cadastro.html            **📝 Formulário Complexo**
+* > README.md                **📖 Documentação Técnica**
+* >css/                     **Pasta de Estilos**
+* >> styles.css           **Estilos Responsivos**
+* > js/                      **Pasta de Comportamento**
+* >> main.js              **Máscaras e Validação**
+* > images/                  **Pasta de Ativos Visuais**
+* >> .jpg, .svg         **Imagens e Logo Otimizados**
 
 ## 📋 Comprovação de Web Standards (W3C)
 
