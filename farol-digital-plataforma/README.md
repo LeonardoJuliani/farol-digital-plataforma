@@ -1,31 +1,3 @@
-# ONG Platform - Entrega 1 (HTML5)
-
-Projeto demonstrativo para disciplina de Front-end — entrega 1 (HTML5 + formulários semânticos).
-
-## Estrutura
-- index.html — página institucional
-- projetos.html — listagem de projetos
-- cadastro.html — formulário de cadastro (voluntário/doador)
-- css/styles.css
-- js/main.js
-- images/*
-
-## Requisitos atendidos
-- HTML5 semântico
-- Formulários com validação nativa e máscaras
-- Responsivo (mobile-first)
-- Acessibilidade básica (WCAG 2.1 AA target)
-- Instruções para validação W3C
-
-## Como rodar
-Abrir os arquivos HTML no navegador. Para uma entrega via GitHub Pages:
-1. Criar repositório público.
-2. Subir os arquivos na branch `main`.
-3. Habilitar GitHub Pages nas configurações (pasta `/`).
-4. Compartilhar o link público.
-
-## Contato
-Responsável: [Seu nome] — email: contato@seuemail.org
 # 💡 Farol Digital - Plataforma de Inclusão Digital (Front-End Challenge)
 
 Projeto demonstrativo para a disciplina de Desenvolvimento Front-End. Esta entrega aplica e integra os padrões de HTML5, CSS3 Responsivo e JavaScript, com foco em acessibilidade e performance.
@@ -51,7 +23,14 @@ A implementação do projeto Farol Digital cumpre integralmente os seguintes obj
 
 ## 📂 Estrutura do Repositório
 
-farol-digital-plataforma/ |-- index.html # Página Institucional |-- projetos.html # Listagem de Projetos (Grid Responsivo) |-- cadastro.html # Formulário Complexo |-- README.md # Este Documento |-- css/ | |-- styles.css # Estilos Responsivos |-- js/ | |-- main.js # Máscaras e Validação |-- images/ | |-- *.jpg, *.svg # Assets Otimizados (Fotos e Logo)
+farol-digital-plataforma/
+|-- css/
+|-- images/
+|-- js/
+|-- README.md
+|-- cadastro.html
+|-- index.html
+|-- projetos.html
 
 ## 📋 Comprovação de Web Standards (W3C)
 
@@ -59,4 +38,4 @@ Todos os arquivos HTML foram verificados e **validados com sucesso** no W3C Mark
 
 ---
 Responsável: [Leonardo Juliani Costa]
-Link PÚBLICO do Projeto no GitHub: `[INSIRA O LINK DO SEU REPOSITÓRIO PÚBLICO AQUI]`
+Link PÚBLICO do Projeto no GitHub: `[https://github.com/LeonardoJuliani/farol-digital-plataforma]`
