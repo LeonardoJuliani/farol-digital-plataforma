@@ -29,4 +29,5 @@ Todos os arquivos HTML foram verificados e **validados com sucesso** no W3C Mark
 
 ---
 Responsável: [Leonardo Juliani Costa]
-Link PÚBLICO do Projeto no GitHub: `[INSIRA O LINK DO SEU REPOSITÓRIO PÚBLICO AQUI]`
+Link PÚBLICO do Projeto no GitHub: `[https://github.com/LeonardoJuliani/farol-digital-plataforma]
+`
