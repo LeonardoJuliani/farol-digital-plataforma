@@ -24,13 +24,13 @@ A implementação do projeto Farol Digital cumpre integralmente os seguintes obj
 ## 📂 Estrutura do Repositório
 
 farol-digital-plataforma/
-|-- css/
-|-- images/
-|-- js/
-|-- README.md
-|-- cadastro.html
-|-- index.html
-|-- projetos.html
+> css/
+> images/
+> js/
+> README.md
+> cadastro.html
+> index.html
+> projetos.html
 
 ## 📋 Comprovação de Web Standards (W3C)
 
