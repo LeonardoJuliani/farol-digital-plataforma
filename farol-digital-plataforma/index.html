@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Farol Digital — Conectando o presente, construindo o futuro</title>
+  <meta name="description" content="Farol Digital — Promovendo inclusão digital e educação tecnológica para comunidades de baixa renda. Conheça nossa missão, projetos e como ajudar." />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Ir para o conteúdo</a>
+
+  <header role="banner" class="site-header">
+    <div class="container">
+      <h1 class="site-title">Farol Digital</h1>
+      <nav aria-label="Navegação principal">
+        <ul class="nav-list">
+          <li><a href="index.html">Início</a></li>
+          <li><a href="projetos.html">Projetos</a></li>
+          <li><a href="cadastro.html">Cadastro</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="container" role="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <h2 id="hero-title">Conectando o presente, construindo o futuro</h2>
+      <p>Promovemos a <strong>inclusão digital e a educação tecnológica</strong> para jovens e adultos em comunidades de baixa renda, transformando vidas através do conhecimento.</p>
+      <img src="images/jovens-programando.jpg" alt="Jovens aprendendo a programar em um laboratório de informática." loading="lazy" />
+    </section>
+
+    <section aria-labelledby="sobre-title">
+      <h2 id="sobre-title">Missão, Visão e Valores</h2>
+      <article>
+        <h3>Missão</h3>
+        <p>Garantir acesso à tecnologia e oferecer educação de qualidade para preparar jovens para o mercado de trabalho digital.</p>
+      </article>
+      <article>
+        <h3>Visão</h3>
+        <p>Ser uma referência nacional na transformação social através da tecnologia e da inovação.</p>
+      </article>
+      <article>
+        <h3>Valores</h3>
+        <ul>
+          <li><strong>Inovação:</strong> Buscar constantemente novas formas de educar.</li>
+          <li><strong>Inclusão:</strong> Levar a tecnologia a quem mais precisa.</li>
+          <li><strong>Transparência:</strong> Gerir recursos com clareza total.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section aria-labelledby="transp-title">
+      <h2 id="transp-title">Prestação de Contas e Transparência</h2>
+      <p>Acesse nossos relatórios anuais de atividades e prestação de contas, garantindo total transparência no uso dos recursos doados.</p>
+      <a href="#" class="button">Ver Relatórios Oficiais (PDF)</a>
+    </section>
+
+    <section aria-labelledby="contato-title">
+      <h2 id="contato-title">Fale Conosco</h2>
+      <address>
+        <p>Rua da Tecnologia, 404 — Bairro Digital, Curitiba, PR</p>
+        <p>Email: <a href="mailto:contato@faroldigital.org">contato@faroldigital.org</a></p>
+        <p>Telefone: <a href="tel:+554133334444">+55 (41) 3333-4444</a></p>
+      </address>
+    </section>
+  </main>
+
+  <footer role="contentinfo" class="site-footer">
+    <div class="container">
+      <p>&copy; <span id="year"></span> Farol Digital — Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Atualiza ano no rodapé
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="js/main.js" defer></script>
+</body>
+</html>
